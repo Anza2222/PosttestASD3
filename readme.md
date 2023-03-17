@@ -1,0 +1,8 @@
+# PENGERTIAN
+Linked list adalah strukur data linier berbentuk rantai simpul di mana setiap simpul menyimpan 2 item, yaitu nilai data dan pointer ke simpul elemen berikutnya. Berbeda dengan array, elemen linked list tidak ditempatkan dalam alamat memori yang berdekatan melainkan elemen ditautkan menggunakan pointer.
+# CARA KERJA
+Cara kerja program Playlist Youtube mungkin tidak sekompleks pada aplikasi Youtube. Yang intinya sama-sama menyimpan data yang telah kita buat. Contoh misal kita mempunyai musik yang ingin dijadikan playlist maka kita tinggal memasukkannya kedalam playlist tersebut dengan cara memasukkan judul musik tersebut maka otomatis musik akan tersimpan didalam playlist.
+# OUTPUT PROGRAM
+Didalam program saya telah menambahkan beberapa opsi seperti melihat playlist, menambahkan musik, menghapus musik, mencari musik serta melihat jumlah musik yang ada didalam playlist. Sebelum melihat playlist kita harus memasukkan judul musik yang akan dijadikan playlist kita kemudian kita bisa melihat isi dari playlist tersebut. Kemudian kita juga bia menghapus musik yang ada didalam playlist dengan cara memasukkan judul musik yang akan dihapus. selanjutnya kita juga bisa mencari musik didalam playlist dengan cara memasukkan judul musik yang akan dicari maka output dari program akan akan memberi tahu nomer letak musik tersebut dan yang terakhir yaitu melihat jumlah musik didalam playlist.
+# ELEMEN YANG DIGUNAKAN
+Untuk elemen-elemen yang digunakan pada program ini sebenarnya tidak banyak saya hanya menambahkan menambahkan module OS,TIME kemudian ada perulangan seperti WHILE sisanya seperti elemen-elemen yang biasanya digunakan pada liked list. 
